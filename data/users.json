@@ -1,0 +1,18 @@
+{
+  "Admins": [
+    {
+      "name": "Nikita"
+    },
+    {
+      "name": "Vasa"
+    }
+  ],
+  "Users":[
+    {
+      "name":"User 1"
+    },
+    {
+      "name":"User 2"
+    }
+  ]
+}
