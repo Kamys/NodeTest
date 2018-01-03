@@ -1,5 +1,6 @@
 const Server = require('./server');
-console.log("App run");
+let Logger = require('./help/logger')(module);
+Logger.info("App run");
 let server = new Server();
 server.run();
 server.showAdmins();
